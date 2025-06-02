@@ -6,7 +6,7 @@ numpy,
 PIL (Python Imaging Library via Pillow),
 matplotlib,
 random,
-os,
+os
 
 Model Training
 Initializes weights and bias
