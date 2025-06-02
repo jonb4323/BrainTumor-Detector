@@ -8,10 +8,10 @@ matplotlib,
 random,
 os
 
-Model Training
-Initializes weights and bias
-Trains using gradient descent to minimize Mean Squared Error
+Model Training:
+Initializes weights and bias,
+Trains using gradient descent to minimize Mean Squared Error,
 Logs cost and accuracy every 100 epochs
 
-Visualization
+Visualization:
 Displays a few randomly selected images with predicted labels
