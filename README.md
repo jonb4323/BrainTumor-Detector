@@ -15,3 +15,7 @@ Logs cost and accuracy every 100 epochs
 
 Visualization:
 Displays a few randomly selected images with predicted labels
+
+*Future Additions*
+-  Adversarial attacks using fake data to try and trick the model
+-  Funtional additions so that it can predict more than just mri scans 
