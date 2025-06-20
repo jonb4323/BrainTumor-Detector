@@ -1,5 +1,6 @@
 # BrainTumor-Detector
-This project applies a basic supervised machine learning algorithms like linear regression and gradient descent to classify brain tumor images using a custom-built linear regression model. It includes image preprocessing, training a model via gradient descent, and visualizing predictions
+This project applies a basic supervised machine learning algorithms like linear regression and gradient descent to classify brain tumor images using a custom-built linear regression model. 
+It includes image preprocessing, training a model via gradient descent, and visualizing predictions
 
 Dependencies:
 numpy,
@@ -15,6 +16,7 @@ Logs cost and accuracy every 100 epochs
 
 Visualization:
 Displays a few randomly selected images with predicted labels
+
 
 *Future Additions*
 -  Adversarial attacks using fake data to try and trick the model
