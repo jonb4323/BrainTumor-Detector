@@ -18,6 +18,6 @@ Visualization:
 Displays a few randomly selected images with predicted labels
 
 
-*Future Additions*
+*Future Additions + Future Project*
 -  Adversarial attacks using fake data to try and trick the model
 -  Funtional additions so that it can predict more than just mri scans 
